@@ -15,6 +15,9 @@ Here's a brief timeline of JavaScript, as authored by our friends at [webapplog.
 1.    2015: ES6/ECMAScript2015 comes out
 1.    2017: We're still talking about ES6 like it's fancy and new, even though ES7 has some incredible _new_ features
 
+### 🤓 How do I use this repo? 🤓
+Open this project in your text editor of choice, and 'copy full path' to each topic's `index.html`, pasting it into your browser. You know what'd be real nice? Some in-browser project navigation. I'll work on it, but PRs are _more than welcome_!
+
 ### Links and Reference Material
 * [Martin's Slide Deck](https://docs.google.com/presentation/d/1TYevhT5RJTchi57QRNXO-M80iy5W5xMVSfUtJJRH0_8/edit?usp=sharing)
 * [Top 10 ES6 Features Every Busy JS Developer Must Know](https://webapplog.com/es6/)
