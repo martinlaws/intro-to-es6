@@ -13,17 +13,17 @@ document.addEventListener("DOMContentLoaded", () => {
     console.log(oldLastName);
 
     // we can mass-assign by passing in the whole object:
-    const {
-        firstName,
-        lastName,
-        city,
-        country
-    } = person;
+    // const {
+    //     firstName,
+    //     lastName,
+    //     city,
+    //     country
+    // } = person;
 
-    console.log(firstName);
-    console.log(lastName);
-    console.log(city);
-    console.log(country);
+    // console.log(firstName);
+    // console.log(lastName);
+    // console.log(city);
+    // console.log(country);
 
     const apiData = {
         thing: '123',
@@ -85,6 +85,4 @@ document.addEventListener("DOMContentLoaded", () => {
     // then we are naming w -> width and h-> height, hence:
     console.log(newWidth);
     console.log(newHeight);
-
-
 });
