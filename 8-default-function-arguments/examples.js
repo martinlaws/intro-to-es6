@@ -7,8 +7,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // we can see that the default arguments kick in when only subtotal is passed in:
     console.log(`Total with default arguments: ${calculateBill(100)}`);
-    // we can pass in the first two and skip the third:
-    console.log(`Total with two arguments: ${calculateBill(100, 0.15)}`);
-    // or we can skip the middle argument by passing undefined:
-    console.log(`Total skipping the middle argument: ${calculateBill(100, undefined, 0.2)}`);
+
+    // // we can pass in the first two and skip the third:
+    // console.log(`Total with two arguments: ${calculateBill(100, 0.15)}`);
+
+    // // or we can skip the middle argument by passing undefined:
+    // console.log(`Total skipping the middle argument: ${calculateBill(100, undefined, 0.2)}`);
 });
