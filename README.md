@@ -1,5 +1,5 @@
 # Intro to ES6
-by [Martin Laws](https://twitter.com/martinblaws), built out as a workshop for [Index Exchange](http://www.indexexchange.com)
+by [Martin Laws](https://twitter.com/martinblaws), built out as a workshop for [Index Exchange](http://www.indexexchange.com) and [Ample Organics](http://ampleorganics.com)
 
 ---
 
